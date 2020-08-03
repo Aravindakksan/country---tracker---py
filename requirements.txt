@@ -12,3 +12,4 @@ requests==2.24.0
 simplejson==3.17.2
 urllib3==1.25.9
 Werkzeug==1.0.1
+Pyodbc=20.1.1
